@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I love to play basketball & travel!**
 
-- My Digital portfolio is available at [codybrookes.coms](codybrookes.com)
+- My Digital portfolio is available at [codybrookes.com](codybrookes.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
