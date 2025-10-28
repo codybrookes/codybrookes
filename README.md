@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cody Brookes</h1>
-<h3 align="center">A passionate cloud operations technology enthusiast with 7 years of experience.</h3>
+<h3 align="center">A passionate Operations Technology enthusiast with a focus in identity and access management with 7 years of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codybrookes&label=Profile%20views&color=0e75b6&style=flat" alt="codybrookes" /> </p>
 
-- 🔭 I’m currently working on **comptia network+/security+.**
+- 🔭 I’m currently working on **comptia security+, AZ-500, SC-900, & CIAM.**
 
-- 🌱 I’m currently learning **network administration and cloud concepts.**
+- 🌱 I’m currently learning **identity and access management with a focus in cloud IAM security.**
 
 - 📝 I currently hold several certifications **CSM,CSPO,Agile Cert, & Azure 104.**
 
