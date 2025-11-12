@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codybrookes&label=Profile%20views&color=0e75b6&style=flat" alt="codybrookes" /> </p>
 
-- 🔭 I’m currently working on **comptia security+, AZ-500, SC-900, & CIAM.**
+- 🔭 I’m currently working on **Comptia Network+., Security+, AZ-500, SC-900, & CIAM.**
 
 - 🌱 I’m currently learning **identity and access management with a focus in cloud IAM security.**
 
