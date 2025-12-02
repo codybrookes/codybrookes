@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **identity and access management with a focus in cloud IAM security.**
 
-- 📝 I currently hold several certifications **CSM,CSPO,Agile Cert, & Azure 104.**
+- 📝 I currently hold several certifications **CSM,CSPO,Agile Cert, & Azure 900.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codybrookes](https://github.com/codybrookes)
 
